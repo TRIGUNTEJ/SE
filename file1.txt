@@ -1,0 +1,4 @@
+print"hello world"
+Name = str(intput(print"what is your name")))
+print("your name")
+
